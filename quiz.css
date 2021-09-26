@@ -9,10 +9,8 @@ body{
     padding: 2rem;
     background-color:burlywood;
 }
-.container{
-    margin: auto;
 
-}
+
 .nav{
     padding: 2rem 2rem;
     
@@ -27,17 +25,19 @@ margin: auto;
 
 
 }
-input{
-width: 50vw;
-margin: auto;
-display: block;
-}
-.angle-input{
-        text-align: center;
+label{
+    margin: auto;
+    text-align: center;
     
 }
-#chk-btn{
+
+#submit-answer-btn{
     width: 10%;
+    text-align: center;
     margin: auto;
-    border: 1rem;
+}
+#output{
+    padding: 2rem;
+    margin: auto;
+    text-align: center;
 }
