@@ -13,7 +13,7 @@ body{
 
 .nav{
     padding: 2rem 2rem;
-    
+    border-bottom-left-radius: 2rem;
     text-align: center;
     background-color: orangered;
     
@@ -22,7 +22,7 @@ body{
 padding: 2rem;
 text-align: center;
 margin: auto;
-
+color: white;
 
 }
 label{

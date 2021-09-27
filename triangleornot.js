@@ -15,7 +15,7 @@ if (triangleSum===180){
 
     outputB.innerText="Yay a triangle is formed"
 }else{
-    outputB.innerText="Ohh angles do not form atriangle"
+    outputB.innerText="Ohh!! angles do not form a triangle"
 }}
 
 

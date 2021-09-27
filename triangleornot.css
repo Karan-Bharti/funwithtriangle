@@ -18,13 +18,13 @@ body{
     
     text-align: center;
     background-color: orangered;
-    
+    border-bottom-left-radius: 2rem;
 }
 .nav-pills{
 padding: 2rem;
 text-align: center;
 margin: auto;
-
+color: white;
 
 }
 input{
